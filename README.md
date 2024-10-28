@@ -56,5 +56,5 @@ java -cp build Main # start
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif)) file for details.
 
